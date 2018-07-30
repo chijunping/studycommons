@@ -1,4 +1,4 @@
-package com.zhibo8.study;
+package com.concurrent;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

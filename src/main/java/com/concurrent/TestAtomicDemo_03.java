@@ -1,4 +1,4 @@
-package com.zhibo8.study;
+package com.concurrent;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
