@@ -1,4 +1,4 @@
-package com.scala
+package com.scalaTest
 
 /**
   * 隐式转换——隐式转换函数

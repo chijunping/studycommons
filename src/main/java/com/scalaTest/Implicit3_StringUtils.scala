@@ -1,4 +1,4 @@
-package com.scala
+package com.scalaTest
 
 import org.springframework.util.DigestUtils
 
@@ -24,7 +24,7 @@ object Implicit3_StringUtils {
 
 object test {
   def main(args: Array[String]): Unit = {
-    import com.scala.Implicit3_StringUtils._
+    import com.scalaTest.Implicit3_StringUtils._
     println("mobin".increment)
     println("mobin".printName)
     println("23".string2Int)
